@@ -20,10 +20,11 @@ The model was evaluated using 5-fold cross-validation and achieved:
 * **Preprocessing:** `StandardScaler` for numeric values and `OneHotEncoder` for categories.
 
 ## 🏃 How to Run
-   git clone <your-repository-link>
+   git clone https://github.com/samp20096/Loan-Aproval-System
 
 ## Install dependencies:
     pip install -r requirements.txt
 
 ## Run the app:
     streamlit run main.py
+
